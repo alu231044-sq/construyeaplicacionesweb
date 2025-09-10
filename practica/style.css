@@ -1,0 +1,39 @@
+#mybody{
+    background-color: rgb(0, 0, 0);
+}
+#myh1{
+        color: rgb(255, 255, 255);
+
+text-align: center;
+
+}
+#myh2{
+    color: rgb(255, 0, 0);
+    text-decoration-line: underline;
+
+}
+#myh3{
+    color: aliceblue;
+}
+#mydiv{
+    max-width: 5%;
+    background-color: cadetblue;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.biografia
+{ max-width: 400px;
+    background-color: cadetblue;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+.dato{margin: 10px 0;
+font-size: 18px;}
+
+.etiqueta{font-weight: bold;
+color: #555;}
+
+.valor{color: #222;}
